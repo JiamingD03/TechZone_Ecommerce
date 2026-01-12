@@ -77,7 +77,7 @@
 </table>
 
 <li>Targeted SQL queries addressing key business questions can be found <a href="https://github.com/JiamingD03/TechZone/blob/main/TechZone.sql">here</a>.</li>
-<li>EDA and detailed visualizations covering sales trends, product performance, and other key metrics can be found here.</li>
+<li>EDA and detailed visualizations covering sales trends, product performance, and other key metrics can be found <a href = "https://github.com/JiamingD03/TechZone/blob/main/TechZone_Cleaned.xlsx">here</a>.</li>
 
 
 
